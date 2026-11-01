@@ -38,3 +38,4 @@ Les tests ont confirmé que Zabbix détecte l'arrêt du service IIS et l'indispo
 ## Documentation
 
 Le rapport PDF joint présente l'architecture, les principales étapes de configuration, des captures d'écran et les résultats des tests.
+📄 [Consulter le rapport technique (PDF)](pSYNE_Zabbix_Vladyslav_Shpakov.pdf)
